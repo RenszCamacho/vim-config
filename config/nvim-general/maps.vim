@@ -15,7 +15,7 @@ nmap <Leader>gs :G<CR>
 nmap <Leader>gc :Gcommit<CR>
 nmap <Leader>gp :Gpush<CR>
 nmap <Leader>gl :Gclog<CR>
-nmap <Leader>p <C-p>
+nmap <Leader>p :GFile<CR>
 nmap <Leader>o <C-o>
 inoremap gg <Esc>
 nnoremap \\ <C-w><C-v>:wincmd l<CR>
