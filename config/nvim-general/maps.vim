@@ -19,8 +19,6 @@ nmap <Leader>p :GFile<CR>
 nmap <Leader>o <C-o>
 inoremap gg <Esc>
 nnoremap \\ <C-w><C-v>:wincmd l<CR>
+nnoremap <C-p> :FZF<CR>
 tnoremap <ESC> <C-\><C-N>
-" nnoremap <Leader>+ :vertical resize +5<CR>
-" nnoremap <Leader>- :vertical resize -5<CR>
-" nnoremap <Leader>rp :vertical resize 105<CR>
 
