@@ -25,4 +25,5 @@ function! JumpToCss()
 endfunction
 
 
+nnoremap <F9> :call JumpToSass()<CR>
 nnoremap <F8> :call JumpToCss()<CR>
