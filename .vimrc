@@ -5,4 +5,5 @@ source $HOME/.config/nvim/nvim-general/configs.vim
 source $HOME/.config/nvim/nvim-general/config-theme.vim
 source $HOME/.config/nvim/nvim-general/coc-config.vim
 source $HOME/.config/nvim/nvim-general/fzf-config.vim
+source $HOME/.config/nvim/nvim-general/css-picker.vim
 
